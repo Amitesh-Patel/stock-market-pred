@@ -10,3 +10,4 @@ TSInterpret
 shap
 pandas-ta
 plotly
+opencv-python
