@@ -12,6 +12,6 @@ tensorflow_intel
 opencv-python
 pkgconfig
 h5py
-TSInterpret==0.4.0
 tf_explain
+TSInterpret==0.4.0
 yfinance==0.2.38
