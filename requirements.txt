@@ -10,6 +10,7 @@ streamlit==1.24.0
 tensorflow
 tensorflow_intel
 opencv-python
+h5py
 TSInterpret==0.4.0
 tf_explain
 yfinance==0.2.38
