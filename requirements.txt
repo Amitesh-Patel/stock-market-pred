@@ -4,10 +4,10 @@ pandas
 numpy
 scikit-learn
 keras
+opencv-python
 matplotlib
 tensorflow
-TSInterpret
 shap
 pandas-ta
 plotly
-opencv-python
+TSInterpret
