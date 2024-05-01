@@ -11,4 +11,5 @@ tensorflow
 tensorflow_intel
 opencv-python
 TSInterpret==0.4.5
+tf_explain
 yfinance==0.2.38
