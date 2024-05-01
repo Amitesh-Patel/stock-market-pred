@@ -9,5 +9,6 @@ shap==0.45.0
 streamlit==1.24.0
 tensorflow
 tensorflow_intel
+opencv-python
 TSInterpret==0.4.5
 yfinance==0.2.38
